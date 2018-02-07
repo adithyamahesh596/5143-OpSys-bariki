@@ -1,4 +1,5 @@
-<This is the bash command simulator written in python and when entered input such as bash commands give the output exactly as the bash terminal.> 
+<This is the bash command simulator written in python and when entered input such as bash commands give the output exactly as
+the bash terminal.> 
 
 import os,stat,sys
 import time,subprocess,shutil
